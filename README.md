@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+---
+
+### :smile: About Me:
+
+- Cake Decorator
+- Social Media Marketing
+- Freelance Translator
+- Student
+
+
+
 <!--
 **gabriellayuwono/gabriellayuwono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
