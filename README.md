@@ -1,8 +1,23 @@
-### Hi there 👋
+### Hello 
 
 ---
 
 ### :smile: About Me:
+
+My name is Gabriella Yuwono and i'm currently a student at Tunghai University. I was born and raised in Indonesia and have been moving around places to explore the world. 
+
+---
+
+### :book: Education
+
+- [Tunghai University](https://eng.thu.edu.tw/)
+  Global Master of Business Administration
+
+- [Kyungsung University](https://kscms.ks.ac.kr/eng/Main.do)
+  Food Service Management
+  
+- [The Sages Institute](https://www.sagesinst.org/)
+  Culinary Arts & Baking Pastry
 
 - Cake Decorator
 - Social Media Marketing
