@@ -20,14 +20,19 @@ My name is Gabriella Yuwono and i'm currently a student at Tunghai University. I
   Culinary Arts & Baking Pastry
   
 ---
-### Experience
+### Work Experience
 
 Before coming to Taiwan i have did an internship for 3 months at [Bali Best Production](https://balibestproduction.com/) as Social Media Marketing Team.
 During covid from 2020 up to 2022 i run my own online cake shop called Dabong, please do check out the instagram to see some of our works [Dabong](https://instagram.com/dabongonadventure?igshid=OTJlNzQ0NWM=). And also during my free time i teach online korean class. 
 
 **How to reach me :envelope: [gabriella yuwono](https://www.linkedin.com/in/gabriella-yuwono-69a13a176)**
 
-
+---
+### Other Activities 
+- Interpreter at Hana Travel Show-Wonderful Indonesia
+- Interpreter at Busan Choral Festival
+- Delegates [Asia World Model United Nations](https://awmun.org/offline)
+- Performer [Knock Knock Indonesia](https://www.youtube.com/watch?v=XK_iYvXvKPU&t=3408s)
 
 
 <!--
