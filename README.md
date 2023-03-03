@@ -9,6 +9,9 @@
 - Freelance Translator
 - Student
 
+**How to reach me :envelope: [gabriella yuwono](https://www.linkedin.com/in/gabriella-yuwono-69a13a176)**
+
+
 
 
 <!--
